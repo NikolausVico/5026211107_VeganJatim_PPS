@@ -1,10 +1,13 @@
 # 🥗 Vegan Jatim Marketplace
 
+**Nama:** Nikolaus Vico Cristianto  
+**NRP:** 5026211107  
+**Mata Kuliah:** Pengembangan dan Perancangan Sistem (PPS)
+
+---
+
 **Vegan Jatim** adalah sebuah platform berbasis web yang menyediakan marketplace makanan dan minuman vegan untuk masyarakat Jawa Timur. Aplikasi ini memungkinkan pengguna untuk menelusuri, membaca detail, dan membeli produk vegan lokal dengan mudah serta menyediakan layanan informasi dan edukasi seputar diet vegan.
 
-Nama: Nikolaus Vico Cristianto
-NRP: 5026211107
-Mata Kuliah: Pengembangan dan Perancangan Sistem (PPS)
 ---
 
 ## 🌟 Fitur Utama
